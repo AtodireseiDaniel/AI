@@ -1,0 +1,2 @@
+c.Ambele frecvente sunt predictori utili pentru pretul de vanzare al PC-urilor , deoarece intervalele HDI pt beta1 si beta2  nu includ 0.
+Asta inseamna ca ambele variabile au efect clar asupra pretului.
